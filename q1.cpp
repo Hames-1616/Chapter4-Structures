@@ -13,7 +13,7 @@ int main()
     p1.number = 1212;
 
     cout<<"Enter your area code , exchange , and number"<<endl;
-    cin>>p1.area>>p1.exchange>>p1.number;
+    cin>>p2.area>>p2.exchange>>p2.number;
 
     cout<<"My Number is "<<"("<<p1.area<<") "<<p1.exchange<<"-"<<p1.number<<endl;
     cout<<"Your Number is "<<"("<<p2.area<<") "<<p2.exchange<<"-"<<p2.number;
